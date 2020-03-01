@@ -7,16 +7,12 @@ image: assets/images/demo1.jpg
 
 Hola, 
 
-planteo el blog como un repositorio de herramientas interesantes que me encuentro. 
+Planteo el blog como un repositorio de herramientas interesantes que me encuentro. 
 
 
 
 {% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+Esto es código
 {% endhighlight %}
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
